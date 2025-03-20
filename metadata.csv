@@ -1,32 +1,35 @@
 ﻿column,description
-site,site name
-latitude,latitude of site in degrees
-longitude,longitude of site in degrees
-control,"position of control plot when facing toward shore: left, center, or right"
-removal,"position of removal plot when facing toward shore: left, center, or right"
-addition,"position of addition plot when facing toward shore: left, center, or right"
 date,date of survey in MM-DD-YYYY format
+site,site name
+latitude,latitude of site in decimal degrees
+longitude,longitude of site in decimal degrees
 surveyor,name of surveyor
 buddy,name of dive buddy
-transect,number of transect: 1-4
+weather,weather conditions during survey
+visibility,underwater visibility in m
+transect,number of transect: 1 or 2
 treatment,"experimental treatment: control, removal, or addition"
 diver_position,position of surveyor: shallow or deep side of transect tape
 plot_position,"position of plot when facing toward shore: left, center, or right"
 start_time,start time of survey in 24:00 format
 end_time,end time of survey in 24:00 format
+start_tide,tide height at beginning of survey in m
+end_tide,tide height at end of survey in m
 start_depth,start depth of transect survey in m
 end_depth,end depth of transect survey in m
-depth,depth at center of plot in m
-sea_cucumbers,number of sea cucumbers within 1 m of transect tape OR within plot
-leather_stars,number of leather stars within 1 m of transect tape OR within plot
-mottled_stars,number of mottled stars within 1 m of transect tape OR within plot
-ochre_stars,number of ochre stars within 1 m of transect tape OR within plot
-pink_stars,number of pink stars within 1 m of transect tape OR within plot
-sunflower_stars,number of sunflower stars within 1 m of transect tape OR within plot
-density,sea cucumber density: (sea_cucumbers)/(transect_area OR plot_area)
-transect_area,area of belt transect survey: 25 m^2
-plot_area,area of plot: 25 m^2
+top_depth,depth at shallow end of plot in m
+middle_depth,depth in middle of plot in m
+bottom_depth,depth at deep end of plot in m
+sea_cucumber,number of sea cucumbers within 1 m of transect tape OR within plot
+initial_sea_cucumber,number of sea cucumbers within plot before experimental manipulation
+experimental_sea_cucumber,number of sea cucumbers within plot after experimental manipulation
+blood_star,number of blood stars within 1 m of transect tape OR within plot
+leather_star,number of leather stars within 1 m of transect tape OR within plot
+mottled_star,number of mottled stars within 1 m of transect tape OR within plot
+ochre_star,number of ochre stars within 1 m of transect tape OR within plot
+pink_star,number of pink stars within 1 m of transect tape OR within plot
+sunflower_star,number of sunflower stars within 1 m of transect tape OR within plot
 length,contracted length of sea cucumber in cm
-width,contracted width of sea cucumber in cm
-slw,sea cucumber size index: √[(length)/(width)] 
+diameter,contracted diameter of sea cucumber in cm
+circumference,contracted circumference of sea cucumber in cm
 notes,any additional information
