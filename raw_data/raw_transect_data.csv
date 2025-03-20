@@ -1,0 +1,37 @@
+﻿date,site,surveyor,buddy,weather,visibility,transect,diver_position,start_time,end_time,start_tide,end_tide,start_depth,end_depth,sea_cucumber,blood_star,leather_star,mottled_star,ochre_star,pink_star,sunflower_star,notes
+01-06-2025,boulder_island,shelby_connelly,hannah_schriber,foggy,4,1,deep,10:53,11:06,4.9,4.86,5.7,8.2,0,0,45,0,47,3,0,
+01-06-2025,boulder_island,shelby_connelly,hannah_schriber,foggy,4,2,deep,11:13,11:22,4.82,4.78,6.2,6.1,0,0,19,0,0,18,0,
+01-06-2025,boulder_island,hannah_schriber,shelby_connelly,foggy,4,1,shallow,10:53,11:04,4.9,4.86,5.3,8.3,0,0,29,0,0,3,0,
+01-06-2025,boulder_island,hannah_schriber,shelby_connelly,foggy,4,2,shallow,11:13,11:22,4.82,4.78,5.6,5.8,0,0,23,0,37,11,0,
+01-06-2025,twin_islands,shelby_connelly,hannah_schriber,sunny,4,1,deep,13:15,13:30,3.9,3.77,5.6,6.9,1,0,41,0,0,16,1,
+01-06-2025,twin_islands,shelby_connelly,hannah_schriber,sunny,4,2,deep,13:31,13:45,3.76,3.64,6.7,5.7,0,0,48,0,0,5,0,
+01-06-2025,twin_islands,hannah_schriber,shelby_connelly,sunny,4,1,shallow,13:14,13:26,3.91,3.8,5.2,6.2,0,0,48,0,0,8,0,
+01-06-2025,twin_islands,hannah_schriber,shelby_connelly,sunny,4,2,shallow,13:30,13:44,3.77,3.65,6,5.2,2,0,34,1,12,18,0,
+01-06-2025,jug_island,shelby_connelly,hannah_schriber,sunny,4,1,deep,14:51,14:58,3.01,2.94,1.8,1.5,0,0,5,1,9,0,0,
+01-06-2025,jug_island,shelby_connelly,hannah_schriber,sunny,4,2,deep,15:05,15:22,2.86,2.7,4.6,4,1,0,10,0,46,1,0,
+01-06-2025,jug_island,hannah_schriber,shelby_connelly,sunny,4,1,shallow,14:50,14:57,3.02,2.95,1.7,1.5,0,0,0,0,6,0,0,
+01-06-2025,jug_island,hannah_schriber,shelby_connelly,sunny,4,2,shallow,15:04,15:20,2.87,2.72,4.1,3.3,2,0,31,0,30,0,0,
+01-08-2025,north_croker_island,shelby_connelly,claire_attridge,cloudy,5,1,deep,10:17,10:42,4.35,4.48,8.2,9.3,19,0,13,0,0,0,3,
+01-08-2025,north_croker_island,shelby_connelly,claire_attridge,cloudy,5,2,deep,10:45,11:02,4.49,4.55,9.5,10.6,24,0,26,0,0,0,1,
+01-08-2025,north_croker_island,claire_attridge,shelby_connelly,cloudy,5,1,shallow,10:17,10:42,4.35,4.48,7.9,8.4,18,0,36,4,3,2,2,
+01-08-2025,north_croker_island,claire_attridge,shelby_connelly,cloudy,5,2,shallow,10:45,11:02,4.49,4.55,8.9,9.9,19,0,28,0,0,0,0,
+01-08-2025,south_croker_island,shelby_connelly,claire_attridge,cloudy,5,1,shallow,12:48,12:59,4.38,4.29,9.5,11.8,2,0,35,4,1,0,0,could not collect and measure 1 sea cucumber
+01-08-2025,south_croker_island,shelby_connelly,claire_attridge,cloudy,5,2,shallow,13:00,13:27,4.28,4.09,9.3,8.2,37,0,56,0,0,0,0,
+01-08-2025,south_croker_island,claire_attridge,shelby_connelly,cloudy,5,1,deep,12:48,12:59,4.38,4.29,9.7,11,3,0,25,0,0,0,0,
+01-08-2025,south_croker_island,claire_attridge,shelby_connelly,cloudy,5,2,deep,13:00,13:18,4.28,4.09,10,8.6,20,0,32,0,0,0,0,
+01-08-2025,south_johnson_bay,shelby_connelly,claire_attridge,cloudy,5,1,deep,14:20,15:01,3.67,3.3,7.5,7.5,18,0,24,0,0,0,1,
+01-08-2025,south_johnson_bay,shelby_connelly,claire_attridge,cloudy,5,2,deep,15:02,15:20,3.29,3.12,6.9,7.3,27,0,25,0,0,1,0,
+01-08-2025,south_johnson_bay,claire_attridge,shelby_connelly,cloudy,5,1,shallow,14:22,14:44,3.65,3.46,7.4,7,13,0,42,2,2,0,0,could not collect and measure 1 sea cucumber
+01-08-2025,south_johnson_bay,claire_attridge,shelby_connelly,cloudy,5,2,shallow,14:57,15:13,3.34,3.19,6.9,7.3,15,0,34,3,2,0,0,
+01-10-2025,best_point,shelby_connelly,hannah_schriber,cloudy,5,1,shallow,9:51,9:58,3.91,3.94,5.3,10.4,0,0,38,0,0,4,0,
+01-10-2025,best_point,shelby_connelly,hannah_schriber,cloudy,5,2,shallow,10:18,10:31,4.03,4.08,4.9,5.7,38,0,111,2,NA,5,0,"did not measure sea cucumbers, did not count all ochre stars"
+01-10-2025,best_point,hannah_schriber,shelby_connelly,cloudy,5,1,deep,9:50,9:57,3.91,3.94,5.6,10.4,0,0,23,0,0,5,0,did not measure sea cucumbers
+01-10-2025,best_point,hannah_schriber,shelby_connelly,cloudy,5,2,deep,10:17,10:26,4.02,4.06,5.2,6.9,3,0,64,2,3,3,0,did not measure sea cucumbers
+01-10-2025,old_buntzen_power_plant,shelby_connelly,hannah_schriber,cloudy,5,1,deep,11:36,11:55,4.34,4.38,7.9,7.8,2,0,10,0,0,0,0,
+01-10-2025,old_buntzen_power_plant,shelby_connelly,hannah_schriber,cloudy,5,2,deep,11:56,12:17,4.38,4.41,6.3,6.8,10,0,36,0,0,0,0,could not collect and measure 5 sea cucumbers
+01-10-2025,old_buntzen_power_plant,hannah_schriber,shelby_connelly,cloudy,5,1,shallow,11:34,11:53,4.33,4.38,7.4,7.1,3,0,28,1,29,0,0,could not collect and measure 2 sea cucumbers
+01-10-2025,old_buntzen_power_plant,hannah_schriber,shelby_connelly,cloudy,5,2,shallow,11:54,12:13,4.38,4.4,5.8,6.8,3,0,27,1,1,0,0,could not collect and measure 3 sea cucumbers
+01-10-2025,brighton_beach,shelby_connelly,hannah_schriber,cloudy,5,1,deep,13:34,14:05,4.4,4.34,7.5,8.8,8,2,12,3,1,2,0,
+01-10-2025,brighton_beach,shelby_connelly,hannah_schriber,cloudy,5,2,deep,14:06,14:10,4.34,4.32,10.8,10.2,0,0,2,0,0,2,0,
+01-10-2025,brighton_beach,hannah_schriber,shelby_connelly,cloudy,5,1,shallow,13:33,13:59,4.4,4.36,7.2,8.4,11,0,32,7,2,12,0,could not collect and measure 9 sea cucumbers
+01-10-2025,brighton_beach,hannah_schriber,shelby_connelly,cloudy,5,2,shallow,14:03,14:09,4.35,4.33,10.6,10,0,0,8,0,1,0,0,
