@@ -1,7 +1,7 @@
 # Project: Sea Cucumber Honours Project
 # Cleaning raw transect data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 03/18/2025 - 03/20/2025
+# Date: 03/18/2025 - 03/25/2025
 
 # Installing packages
 install.packages(tidyverse)
@@ -10,6 +10,7 @@ install.packages(tidyverse)
 library(tidyverse)
 
 # Loading site and transect data into R
+site_data <- read_csv("./raw_data/site_data.csv")
 raw_transect_data <- read_csv("./raw_data/raw_transect_data.csv")
 raw_transect_size_data <- read_csv("./raw_data/raw_transect_size_data.csv")
 
@@ -75,7 +76,8 @@ site_size_data <- clean_transect_size_data %>%
 sea_cucumber_density_data <- site_density_data %>%
   filter(species == "sea_cucumber")
 
-sea_cucumber_data <- left_join(sea_cucumber_density_data, site_size_data, join_by(site))
+sea_cucumber_data <- right_join(site_data, sea_cucumber_density_data, join_by(site))
+sea_cucumber_data <- left_join(sea_cucumber_data, site_size_data, join_by(site))
 
 # Exporting data frames as .csv files
 write.csv(site_density_data, "./clean_data/clean_transect_density_data.csv", row.names = FALSE)
