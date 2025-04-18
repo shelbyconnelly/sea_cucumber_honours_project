@@ -116,7 +116,8 @@ sea_cucumber_transect_data <- left_join(sea_cucumber_transect_data,
 sea_cucumber_transect_data <- sea_cucumber_transect_data %>%
   rowwise() %>%
   mutate(total_biomass = abundance * mean_biomass,
-         total_biomass = ifelse(density == 0, 0, total_biomass)) %>%
+         total_biomass = if_else(density == 0, 0, total_biomass),
+         total_biomass = if_else(site == "Best Point", NA, total_biomass))
   ungroup()
 
 # Exporting data frames as .csv files ------------------------------------------
