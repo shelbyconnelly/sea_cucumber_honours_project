@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Cleaning raw plot data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 03/18/2025 - 04/12/2025
+# Date: 03/18/2025 - 04/22/2025
 
 # Installing packages
 install.packages(c("tidyverse", "DHARMa"))
@@ -21,20 +21,39 @@ raw_plot_size_data <- read_csv("./raw_data/raw_plot_size_data.csv")
 clean_plot_data <- right_join(site_data, raw_plot_data, join_by(site))
 clean_plot_size_data <- right_join(site_data, raw_plot_size_data, join_by(site))
 
-# Deleting unnecessary columns and converting site, treatment, and plot_position to factors
+# Deleting unnecessary columns and relabelling site and treatment levels
 clean_plot_data <- clean_plot_data %>%
   select(-c(surveyor, buddy, weather, visibility, notes)) %>%
-  mutate(week = as.factor(week),
-         site = as.factor(site),
-         treatment = as.factor(treatment),
-         plot_position = as.factor(plot_position))
+  mutate(site = case_match(site, "boulder_island" ~ "Boulder Island",
+                           "jug_island" ~ "Jug Island",
+                           "twin_islands" ~ "Twin Islands",
+                           "brighton_beach" ~ "Brighton Beach",
+                           "old_buntzen_power_plant" ~ "Old Buntzen PP",
+                           "best_point" ~ "Best Point",
+                           "south_johnson_bay" ~ "S Johnson Bay",
+                           "south_croker_island" ~ "S Croker Island",
+                           "north_croker_island" ~ "N Croker Island"),
+         treatment = case_match(treatment, "control" ~ "Control",
+                                "removal" ~ "Removal",
+                                "addition" ~ "Addition"))
 
 clean_plot_size_data <- clean_plot_size_data %>%
   select(-c(surveyor, buddy, weather, visibility)) %>%
-  mutate(week = as.factor(week),
-         site = as.factor(site),
-         treatment = as.factor(treatment),
-         plot_position = as.factor(plot_position))
+  mutate(site = case_match(site, "boulder_island" ~ "Boulder Island",
+                           "jug_island" ~ "Jug Island",
+                           "twin_islands" ~ "Twin Islands",
+                           "brighton_beach" ~ "Brighton Beach",
+                           "old_buntzen_power_plant" ~ "Old Buntzen PP",
+                           "best_point" ~ "Best Point",
+                           "south_johnson_bay" ~ "S Johnson Bay",
+                           "south_croker_island" ~ "S Croker Island",
+                           "north_croker_island" ~ "N Croker Island"),
+         treatment = case_match(treatment, "control" ~ "Control",
+                                "removal" ~ "Removal",
+                                "addition" ~ "Addition"),
+         initial_treatment = case_match(initial_treatment, "control" ~ "Control",
+                                        "removal" ~ "Removal",
+                                        "addition" ~ "Addition"))
 
 # Calculating survey time and mean tide
 clean_plot_data <- clean_plot_data %>%
@@ -62,6 +81,7 @@ plot_depth_data <- clean_plot_data %>%
   ungroup() %>%
   select(c(site, treatment, chart_datum, mean_slope))
 
+# Joining plot and depth data
 clean_plot_data <- left_join(clean_plot_data, plot_depth_data, join_by(site, treatment)) %>%
   select(-c(top_depth, middle_depth, bottom_depth))
 
@@ -107,22 +127,30 @@ clean_plot_size_data <- clean_plot_size_data %>%
   mutate(size_index = sqrt(length * circumference),
          biomass = int + (slope * size_index))
 
-# Calculating mean sea cucumber biomass
-grouped_biomass_data <- clean_plot_size_data %>%
+# Calculating mean initial and experimental sea cucumber biomass
+initial_biomass_data <- clean_plot_size_data %>%
+  filter(week == 0) %>%
+  group_by(site, initial_treatment) %>%
+  summarise(mean_initial_biomass = mean(biomass)) %>%
+  rename(treatment = initial_treatment)
+
+experimental_biomass_data <- clean_plot_size_data %>%
   group_by(site, week, treatment) %>%
-  summarise(mean_biomass = mean(biomass),
-            sd_biomass = sd(biomass),
-            se_biomass = sd_biomass/sqrt(n()))
+  summarise(mean_experimental_biomass = mean(biomass))
+
+# Joining initial and experimental biomass data
+biomass_data <- left_join(initial_biomass_data, experimental_biomass_data, join_by(site, treatment))
 
 # Joining sea cucumber density and biomass data
-sea_cucumber_plot_data <- left_join(sea_cucumber_plot_data, grouped_biomass_data, join_by(site, week, treatment))
+sea_cucumber_plot_data <- left_join(sea_cucumber_plot_data, biomass_data, join_by(site, week, treatment))
 
 # Calculating change from initial to experimental plot biomass
 sea_cucumber_plot_data <- sea_cucumber_plot_data %>%
   rowwise() %>%
-  mutate(initial_plot_biomass = abundance_initial_sea_cucumber * mean_biomass,
-         experimental_plot_biomass = abundance_experimental_sea_cucumber * mean_biomass,
-         biomass_change = experimental_plot_biomass - initial_plot_biomass)
+  mutate(total_initial_biomass = abundance_initial_sea_cucumber * mean_initial_biomass,
+         total_experimental_biomass = abundance_experimental_sea_cucumber * mean_experimental_biomass,
+         biomass_change = total_experimental_biomass - total_initial_biomass) %>%
+  ungroup()
 
 # Downloading data frames as .csv files ----------------------------------------
 write_csv(clean_plot_data, "./clean_data/clean_plot_data.csv")
