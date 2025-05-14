@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Cleaning raw plot data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 03/18/2025 - 04/22/2025
+# Date: 03/18/2025 - 05/13/2025
 
 # Installing packages
 install.packages(c("tidyverse", "DHARMa"))
@@ -75,11 +75,9 @@ plot_depth_data <- clean_plot_data %>%
   filter(week == 1) %>%
   rowwise() %>%
   mutate(chart_datum = (middle_depth - mean_tide),
-         slope_1 = ((middle_depth - top_depth)/2.5),
-         slope_2 = ((bottom_depth - middle_depth)/2.5),
-         mean_slope = mean(slope_1, slope_2)) %>%
+         slope = (bottom_depth - top_depth)/5) %>%
   ungroup() %>%
-  select(c(site, treatment, chart_datum, mean_slope))
+  select(c(site, treatment, chart_datum, slope))
 
 # Joining plot and depth data
 clean_plot_data <- left_join(clean_plot_data, plot_depth_data, join_by(site, treatment)) %>%
@@ -125,7 +123,7 @@ slope <- coef(sea_cucumber_size_model)[2]
 # Calculating sea cucumber size index and biomass
 clean_plot_size_data <- clean_plot_size_data %>%
   mutate(size_index = sqrt(length * circumference),
-         biomass = int + (slope * size_index))
+         biomass = (slope * size_index) + int)
 
 # Calculating mean initial and experimental sea cucumber biomass
 initial_biomass_data <- clean_plot_size_data %>%
@@ -138,21 +136,21 @@ experimental_biomass_data <- clean_plot_size_data %>%
   group_by(site, week, treatment) %>%
   summarise(mean_experimental_biomass = mean(biomass))
 
-# Joining initial and experimental biomass data
-biomass_data <- left_join(initial_biomass_data, experimental_biomass_data, join_by(site, treatment))
-
 # Joining sea cucumber density and biomass data
-sea_cucumber_plot_data <- left_join(sea_cucumber_plot_data, biomass_data, join_by(site, week, treatment))
+sea_cucumber_plot_data <- left_join(sea_cucumber_plot_data, initial_biomass_data, join_by(site, treatment))
+sea_cucumber_plot_data <- left_join(sea_cucumber_plot_data, experimental_biomass_data, join_by(site, week, treatment)) %>%
+  mutate(mean_initial_biomass = if_else(abundance_initial_sea_cucumber == 0, 0, mean_initial_biomass),
+         mean_experimental_biomass = if_else(abundance_experimental_sea_cucumber == 0, 0, mean_experimental_biomass))
 
 # Calculating change from initial to experimental plot biomass
 sea_cucumber_plot_data <- sea_cucumber_plot_data %>%
   rowwise() %>%
-  mutate(total_initial_biomass = abundance_initial_sea_cucumber * mean_initial_biomass,
-         total_experimental_biomass = abundance_experimental_sea_cucumber * mean_experimental_biomass,
+  mutate(total_initial_biomass = abundance_initial_sea_cucumber * mean_initial_biomass / 25,
+         total_experimental_biomass = abundance_experimental_sea_cucumber * mean_experimental_biomass / 25,
          biomass_change = total_experimental_biomass - total_initial_biomass) %>%
   ungroup()
 
 # Downloading data frames as .csv files ----------------------------------------
 write_csv(clean_plot_data, "./clean_data/clean_plot_data.csv")
-write_csv(sea_cucumber_plot_data, "./clean_data/sea_cucumber_plot_data.csv")
 write_csv(clean_plot_size_data, "./clean_data/clean_plot_size_data.csv")
+write_csv(sea_cucumber_plot_data, "./clean_data/sea_cucumber_plot_data.csv")
