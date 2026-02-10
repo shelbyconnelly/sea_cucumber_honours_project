@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Cleaning raw transect data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 03/18/2025 - 04/17/2025
+# Date: 03/18/2025 - 02/09/2026
 
 # Installing packages 
 install.packages(c("tidyverse", "DHARMa"))
@@ -23,7 +23,7 @@ clean_transect_size_data <- right_join(site_data, raw_transect_size_data, join_b
 
 # Deleting unnecessary columns and relabelling sites 
 clean_transect_data <- clean_transect_data %>%
-  select(-c(surveyor, buddy, weather, visibility, notes)) %>%
+  select(-c(surveyor, buddy, weather, visibility, transect, notes)) %>%
   mutate(site = recode(site, boulder_island = "Boulder Island",
                        jug_island = "Jug Island",
                        twin_islands = "Twin Islands",
@@ -35,7 +35,7 @@ clean_transect_data <- clean_transect_data %>%
                        south_croker_island = "S Croker Island"))
 
 clean_transect_size_data <- clean_transect_size_data %>%
-  select(-c(surveyor, buddy, weather, visibility)) %>%
+  select(-c(surveyor, buddy, weather, visibility, transect)) %>%
   mutate(site = recode(site, boulder_island = "Boulder Island",
                        jug_island = "Jug Island",
                        twin_islands = "Twin Islands",
@@ -73,7 +73,9 @@ clean_transect_data <- clean_transect_data %>%
                  ochre_star, pink_star, sunflower_star),
                names_to = "species",
                values_to = "abundance") %>%
-  mutate(density = abundance/25)
+  group_by(site, latitude, longitude, date, diver_position, species) %>%
+  summarise(abundance = sum(abundance)) %>%
+  mutate(density = abundance/50)
 
 # CALCULATING BIOMASS DATA -----------------------------------------------------
 
@@ -99,10 +101,8 @@ clean_transect_size_data <- clean_transect_size_data %>%
 
 # Calculating mean sea cucumber biomass by transect
 grouped_transect_size_data <- clean_transect_size_data %>%
-  group_by(site, transect, diver_position) %>%
-  summarise(mean_biomass = mean(biomass), ,
-            sd_biomass = sd(biomass),
-            se_biomass = sd_biomass/sqrt(n()))
+  group_by(site, diver_position) %>%
+  summarise(mean_biomass = mean(biomass))
 
 # Joining sea cucumber density and biomass data
 sea_cucumber_transect_data <- clean_transect_data %>%
@@ -110,15 +110,15 @@ sea_cucumber_transect_data <- clean_transect_data %>%
 
 sea_cucumber_transect_data <- left_join(sea_cucumber_transect_data, 
                                         grouped_transect_size_data, 
-                                    join_by(site, transect, diver_position))
+                                    join_by(site, diver_position))
 
 # Calculating total sea cucumber biomass by transect
 sea_cucumber_transect_data <- sea_cucumber_transect_data %>%
   rowwise() %>%
-  mutate(total_biomass = abundance * mean_biomass,
-         total_biomass = if_else(density == 0, 0, total_biomass),
+  mutate(total_biomass = abundance * mean_biomass / 25) %>%
+  ungroup() %>%
+  mutate(total_biomass = if_else(abundance == 0, 0, total_biomass),
          total_biomass = if_else(site == "Best Point", NA, total_biomass))
-  ungroup()
 
 # Exporting data frames as .csv files ------------------------------------------
 write_csv(clean_transect_data, "./clean_data/clean_transect_data.csv")
