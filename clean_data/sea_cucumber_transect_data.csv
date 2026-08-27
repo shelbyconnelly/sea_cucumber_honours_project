@@ -1,0 +1,19 @@
+site,latitude,longitude,transect,species,abundance,density
+Best Pt,49.3819729,-122.8795259,1,sea_cucumber,0,0
+Best Pt,49.3819729,-122.8795259,2,sea_cucumber,41,0.82
+Boulder Island,49.3114465,-122.938326,1,sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,2,sea_cucumber,0,0
+Brighton Beach,49.35914,-122.89389,1,sea_cucumber,19,0.38
+Brighton Beach,49.35914,-122.89389,2,sea_cucumber,0,0
+Jug Island,49.3302902,-122.916925,1,sea_cucumber,0,0
+Jug Island,49.3302902,-122.916925,2,sea_cucumber,3,0.06
+N Croker Island,49.4481372,-122.87396,1,sea_cucumber,37,0.74
+N Croker Island,49.4481372,-122.87396,2,sea_cucumber,43,0.86
+Old Buntzen PP,49.3698033,-122.8733116,1,sea_cucumber,5,0.1
+Old Buntzen PP,49.3698033,-122.8733116,2,sea_cucumber,13,0.26
+S Croker Island,49.4314554,-122.86964,1,sea_cucumber,5,0.1
+S Croker Island,49.4314554,-122.86964,2,sea_cucumber,57,1.14
+S Johnson Bay,49.4021643,-122.8662349,1,sea_cucumber,31,0.62
+S Johnson Bay,49.4021643,-122.8662349,2,sea_cucumber,42,0.84
+Twin Islands,49.3474048,-122.8931744,1,sea_cucumber,1,0.02
+Twin Islands,49.3474048,-122.8931744,2,sea_cucumber,2,0.04
