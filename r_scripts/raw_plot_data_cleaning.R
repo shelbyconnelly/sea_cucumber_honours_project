@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Cleaning raw plot data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 03/18/2025 - 08/03/2026
+# Date: 03/18/2025 - 08/27/2026
 
 # Installing packages
 install.packages("tidyverse")
@@ -22,18 +22,18 @@ clean_plot_data <- right_join(site_data, raw_plot_data, join_by(site))
 clean_plot_data <- clean_plot_data %>%
   select(-c(surveyor, buddy, weather, visibility_m, start_tide_m, end_tide_m, 
             notes)) %>%
-  mutate(site = case_match(site, "boulder_island" ~ "Boulder Island",
-                           "jug_island" ~ "Jug Island",
-                           "twin_islands" ~ "Twin Islands",
-                           "brighton_beach" ~ "Brighton Beach",
-                           "old_buntzen_pp" ~ "Old Buntzen PP",
-                           "best_pt" ~ "Best Pt",
-                           "s_johnson_bay" ~ "S Johnson Bay",
-                           "s_croker_island" ~ "S Croker Island",
-                           "n_croker_island" ~ "N Croker Island"),
-         treatment = case_match(treatment, "control" ~ "Control",
-                                "removal" ~ "Removal",
-                                "addition" ~ "Addition"))
+  mutate(site = recode_values(site, "boulder_island" ~ "Boulder Island",
+                              "jug_island" ~ "Jug Island",
+                              "twin_islands" ~ "Twin Islands",
+                              "brighton_beach" ~ "Brighton Beach",
+                              "old_buntzen_pp" ~ "Old Buntzen PP",
+                              "best_pt" ~ "Best Pt",
+                              "s_johnson_bay" ~ "S Johnson Bay",
+                              "s_croker_island" ~ "S Croker Island",
+                              "n_croker_island" ~ "N Croker Island"),
+         treatment = recode_values(treatment, "control" ~ "Control",
+                                   "removal" ~ "Removal",
+                                   "addition" ~ "Addition"))
 
 # CALCULATING DESCRIPTIVE STATISTICS -------------------------------------------
 
