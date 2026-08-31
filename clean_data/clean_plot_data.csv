@@ -1,0 +1,865 @@
+site,latitude,longitude,date,week,treatment,plot_position,top_depth_m,middle_depth_m,bottom_depth_m,unmeasured_sea_cucumber,survey_time,species,abundance,density
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,initial_sea_cucumber,10,0.4
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,experimental_sea_cucumber,10,0.4
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,blood_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,leather_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,mottled_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,ochre_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,pink_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Control,left,NA,6,NA,0,14,sunflower_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,initial_sea_cucumber,2,0.08
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,experimental_sea_cucumber,10,0.4
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,blood_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,leather_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,mottled_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,ochre_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,pink_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Addition,right,NA,5,NA,0,6,sunflower_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,initial_sea_cucumber,8,0.32
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,experimental_sea_cucumber,0,0
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,blood_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,leather_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,mottled_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,ochre_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,pink_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-18-2025,0,Removal,center,NA,6.2,NA,0,7,sunflower_star,NA,NA
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,initial_sea_cucumber,10,0.4
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,experimental_sea_cucumber,4,0.16
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,leather_star,61,2.44
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,mottled_star,0,0
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,ochre_star,21,0.84
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,pink_star,4,0.16
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Control,left,5.4,6.4,6.6,0,13,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,initial_sea_cucumber,8,0.32
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,experimental_sea_cucumber,9,0.36
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,leather_star,26,1.04
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,mottled_star,1,0.04
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,ochre_star,1,0.04
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,pink_star,2,0.08
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Removal,center,5.8,7.4,8.4,1,16,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,initial_sea_cucumber,2,0.08
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,experimental_sea_cucumber,11,0.44
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,leather_star,52,2.08
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,mottled_star,1,0.04
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,ochre_star,2,0.08
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,pink_star,0,0
+Best Pt,49.3819729,-122.8795259,01-25-2025,1,Addition,right,4.3,5,5.7,3,13,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,initial_sea_cucumber,10,0.4
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,experimental_sea_cucumber,12,0.48
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,leather_star,37,1.48
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,mottled_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,ochre_star,8,0.32
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,pink_star,2,0.08
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Control,left,NA,NA,NA,0,13,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,initial_sea_cucumber,8,0.32
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,experimental_sea_cucumber,13,0.52
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,leather_star,27,1.08
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,mottled_star,2,0.08
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,ochre_star,4,0.16
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,pink_star,2,0.08
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Removal,center,NA,NA,NA,0,10,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,initial_sea_cucumber,2,0.08
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,experimental_sea_cucumber,11,0.44
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,leather_star,43,1.72
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,mottled_star,2,0.08
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,ochre_star,4,0.16
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,pink_star,0,0
+Best Pt,49.3819729,-122.8795259,02-10-2025,3,Addition,right,NA,NA,NA,1,10,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,initial_sea_cucumber,10,0.4
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,experimental_sea_cucumber,6,0.24
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,leather_star,92,3.68
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,mottled_star,1,0.04
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,ochre_star,19,0.76
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,pink_star,9,0.36
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Control,left,NA,NA,NA,0,13,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,initial_sea_cucumber,8,0.32
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,experimental_sea_cucumber,15,0.6
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,leather_star,52,2.08
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,mottled_star,4,0.16
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,ochre_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,pink_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Removal,center,NA,NA,NA,1,16,sunflower_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,initial_sea_cucumber,2,0.08
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,experimental_sea_cucumber,9,0.36
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,blood_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,leather_star,142,5.68
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,mottled_star,2,0.08
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,ochre_star,5,0.2
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,pink_star,0,0
+Best Pt,49.3819729,-122.8795259,03-03-2025,6,Addition,right,NA,NA,NA,0,10,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,leather_star,27,1.08
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,mottled_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,ochre_star,5,0.2
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,pink_star,10,0.4
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Control,center,NA,6.7,NA,0,9,sunflower_star,1,0.04
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,leather_star,17,0.68
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,mottled_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,ochre_star,1,0.04
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,pink_star,10,0.4
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Removal,left,NA,5.5,NA,0,3,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,leather_star,7,0.28
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,mottled_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,ochre_star,0,0
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,pink_star,7,0.28
+Boulder Island,49.3114465,-122.938326,01-13-2025,0,Addition,right,NA,6.1,NA,0,4,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,leather_star,8,0.32
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,mottled_star,1,0.04
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,ochre_star,1,0.04
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,pink_star,7,0.28
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Removal,left,5,6.1,6.7,0,2,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,leather_star,13,0.52
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,mottled_star,1,0.04
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,ochre_star,5,0.2
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,pink_star,13,0.52
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Control,center,5.9,7.1,7.6,0,4,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,leather_star,12,0.48
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,mottled_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,ochre_star,0,0
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,pink_star,8,0.32
+Boulder Island,49.3114465,-122.938326,01-20-2025,1,Addition,right,6.4,7.3,7.7,0,3,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,leather_star,15,0.6
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,mottled_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,ochre_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,pink_star,12,0.48
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Removal,left,NA,NA,NA,0,NA,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,leather_star,20,0.8
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,mottled_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,ochre_star,3,0.12
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,pink_star,11,0.44
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Control,center,NA,NA,NA,0,12,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,experimental_sea_cucumber,1,0.04
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,leather_star,14,0.56
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,mottled_star,2,0.08
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,ochre_star,0,0
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,pink_star,11,0.44
+Boulder Island,49.3114465,-122.938326,02-05-2025,3,Addition,right,NA,NA,NA,0,12,sunflower_star,1,0.04
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,leather_star,16,0.64
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,mottled_star,1,0.04
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,ochre_star,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,pink_star,13,0.52
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Removal,left,NA,NA,NA,0,6,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,leather_star,11,0.44
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,mottled_star,1,0.04
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,ochre_star,1,0.04
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,pink_star,2,0.08
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Control,center,NA,NA,NA,0,6,sunflower_star,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,initial_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,experimental_sea_cucumber,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,blood_star,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,leather_star,14,0.56
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,mottled_star,1,0.04
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,ochre_star,0,0
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,pink_star,4,0.16
+Boulder Island,49.3114465,-122.938326,02-24-2025,6,Addition,right,NA,NA,NA,0,7,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,initial_sea_cucumber,2,0.08
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,experimental_sea_cucumber,2,0.08
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,leather_star,33,1.32
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,mottled_star,3,0.12
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,ochre_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,pink_star,10,0.4
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Control,center,NA,7.2,NA,0,14,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,initial_sea_cucumber,12,0.48
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,experimental_sea_cucumber,4,0.16
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,leather_star,43,1.72
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,mottled_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,ochre_star,2,0.08
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,pink_star,7,0.28
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Removal,left,NA,5.8,NA,4,12,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,initial_sea_cucumber,3,0.12
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,experimental_sea_cucumber,11,0.44
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,leather_star,21,0.84
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,mottled_star,1,0.04
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,ochre_star,5,0.2
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,pink_star,5,0.2
+Brighton Beach,49.35914,-122.89389,01-18-2025,0,Addition,right,NA,5.5,NA,0,10,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,initial_sea_cucumber,2,0.08
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,experimental_sea_cucumber,1,0.04
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,leather_star,26,1.04
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,mottled_star,4,0.16
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,ochre_star,0,0
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,pink_star,7,0.28
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Control,center,6.3,8,10.4,0,13,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,initial_sea_cucumber,3,0.12
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,experimental_sea_cucumber,10,0.4
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,leather_star,51,2.04
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,mottled_star,7,0.28
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,ochre_star,23,0.92
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,pink_star,1,0.04
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Addition,right,5,7.5,8.5,1,NA,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,initial_sea_cucumber,12,0.48
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,experimental_sea_cucumber,3,0.12
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,leather_star,36,1.44
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,mottled_star,1,0.04
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,ochre_star,10,0.4
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,pink_star,2,0.08
+Brighton Beach,49.35914,-122.89389,01-25-2025,1,Removal,left,5.2,6.7,8.1,0,NA,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,initial_sea_cucumber,12,0.48
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,experimental_sea_cucumber,0,0
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,leather_star,26,1.04
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,mottled_star,1,0.04
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,ochre_star,4,0.16
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,pink_star,6,0.24
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Removal,left,NA,NA,NA,0,9,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,initial_sea_cucumber,2,0.08
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,experimental_sea_cucumber,1,0.04
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,leather_star,24,0.96
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,mottled_star,4,0.16
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,ochre_star,1,0.04
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,pink_star,5,0.2
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Control,center,NA,NA,NA,0,16,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,initial_sea_cucumber,3,0.12
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,experimental_sea_cucumber,4,0.16
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,leather_star,44,1.76
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,mottled_star,9,0.36
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,ochre_star,19,0.76
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,pink_star,8,0.32
+Brighton Beach,49.35914,-122.89389,02-10-2025,3,Addition,right,NA,NA,NA,0,14,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,initial_sea_cucumber,12,0.48
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,experimental_sea_cucumber,6,0.24
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,leather_star,44,1.76
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,mottled_star,2,0.08
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,ochre_star,1,0.04
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,pink_star,9,0.36
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Removal,left,NA,NA,NA,2,10,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,initial_sea_cucumber,2,0.08
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,experimental_sea_cucumber,1,0.04
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,leather_star,35,1.4
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,mottled_star,1,0.04
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,ochre_star,0,0
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,pink_star,18,0.72
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Control,center,NA,NA,NA,0,8,sunflower_star,0,0
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,initial_sea_cucumber,3,0.12
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,experimental_sea_cucumber,3,0.12
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,blood_star,0,0
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,leather_star,57,2.28
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,mottled_star,3,0.12
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,ochre_star,19,0.76
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,pink_star,13,0.52
+Brighton Beach,49.35914,-122.89389,03-03-2025,6,Addition,right,NA,NA,NA,0,12,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,initial_sea_cucumber,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,experimental_sea_cucumber,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,leather_star,6,0.24
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,mottled_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,ochre_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Control,left,NA,6.6,NA,0,11,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,initial_sea_cucumber,6,0.24
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,experimental_sea_cucumber,9,0.36
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,leather_star,18,0.72
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,mottled_star,1,0.04
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,ochre_star,5,0.2
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Addition,center,NA,5.4,NA,1,14,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,initial_sea_cucumber,3,0.12
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,experimental_sea_cucumber,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,leather_star,8,0.32
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,mottled_star,1,0.04
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,ochre_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-18-2025,0,Removal,right,NA,6.2,NA,0,13,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,initial_sea_cucumber,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,experimental_sea_cucumber,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,leather_star,8,0.32
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,mottled_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,ochre_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Control,left,6.8,7.7,8.6,0,8,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,initial_sea_cucumber,6,0.24
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,experimental_sea_cucumber,13,0.52
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,leather_star,18,0.72
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,mottled_star,3,0.12
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,ochre_star,2,0.08
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Addition,center,5.7,7.4,8.1,4,19,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,initial_sea_cucumber,3,0.12
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,experimental_sea_cucumber,6,0.24
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,leather_star,16,0.64
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,mottled_star,1,0.04
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,ochre_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,01-25-2025,1,Removal,right,6,7.3,9.1,2,14,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,initial_sea_cucumber,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,experimental_sea_cucumber,2,0.08
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,leather_star,6,0.24
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,mottled_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,ochre_star,1,0.04
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Control,left,NA,NA,NA,0,11,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,initial_sea_cucumber,6,0.24
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,experimental_sea_cucumber,34,1.36
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,leather_star,11,0.44
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,mottled_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,ochre_star,4,0.16
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,pink_star,1,0.04
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Addition,center,NA,NA,NA,3,19,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,initial_sea_cucumber,3,0.12
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,experimental_sea_cucumber,15,0.6
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,leather_star,12,0.48
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,mottled_star,1,0.04
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,ochre_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,02-10-2025,3,Removal,right,NA,NA,NA,2,NA,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,initial_sea_cucumber,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,experimental_sea_cucumber,1,0.04
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,leather_star,11,0.44
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,mottled_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,ochre_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Control,left,NA,NA,NA,0,5,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,initial_sea_cucumber,6,0.24
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,experimental_sea_cucumber,29,1.16
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,leather_star,28,1.12
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,mottled_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,ochre_star,4,0.16
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Addition,center,NA,NA,NA,3,22,sunflower_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,initial_sea_cucumber,3,0.12
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,experimental_sea_cucumber,4,0.16
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,blood_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,leather_star,15,0.6
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,mottled_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,ochre_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,pink_star,0,0
+Old Buntzen PP,49.3698033,-122.8733116,03-03-2025,6,Removal,right,NA,NA,NA,1,8,sunflower_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,initial_sea_cucumber,6,0.24
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,experimental_sea_cucumber,6,0.24
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,leather_star,87,3.48
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,mottled_star,1,0.04
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,ochre_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Control,right,NA,6,NA,0,27,sunflower_star,4,0.16
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,initial_sea_cucumber,14,0.56
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,experimental_sea_cucumber,33,1.32
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,leather_star,27,1.08
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,mottled_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,ochre_star,3,0.12
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Addition,left,NA,7.7,NA,0,13,sunflower_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,initial_sea_cucumber,20,0.8
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,experimental_sea_cucumber,1,0.04
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,leather_star,50,2
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,mottled_star,3,0.12
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,ochre_star,5,0.2
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,01-15-2025,0,Removal,center,NA,7.5,NA,1,18,sunflower_star,3,0.12
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,initial_sea_cucumber,14,0.56
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,experimental_sea_cucumber,10,0.4
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,leather_star,22,0.88
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,mottled_star,2,0.08
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,ochre_star,2,0.08
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Addition,left,8,8.8,9.6,0,13,sunflower_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,initial_sea_cucumber,20,0.8
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,experimental_sea_cucumber,6,0.24
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,leather_star,56,2.24
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,mottled_star,8,0.32
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,ochre_star,1,0.04
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Removal,center,5.9,7.1,8.2,1,12,sunflower_star,2,0.08
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,initial_sea_cucumber,6,0.24
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,experimental_sea_cucumber,1,0.04
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,leather_star,57,2.28
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,mottled_star,4,0.16
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,ochre_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,01-22-2025,1,Control,right,6.2,7.6,8,0,10,sunflower_star,1,0.04
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,initial_sea_cucumber,14,0.56
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,experimental_sea_cucumber,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,leather_star,29,1.16
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,mottled_star,1,0.04
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,ochre_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Addition,left,NA,NA,NA,0,11,sunflower_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,initial_sea_cucumber,20,0.8
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,experimental_sea_cucumber,2,0.08
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,leather_star,62,2.48
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,mottled_star,8,0.32
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,ochre_star,3,0.12
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Removal,center,NA,NA,NA,0,8,sunflower_star,2,0.08
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,initial_sea_cucumber,6,0.24
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,experimental_sea_cucumber,9,0.36
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,leather_star,60,2.4
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,mottled_star,3,0.12
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,ochre_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,02-08-2025,3,Control,right,NA,NA,NA,0,NA,sunflower_star,1,0.04
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,initial_sea_cucumber,14,0.56
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,experimental_sea_cucumber,7,0.28
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,leather_star,13,0.52
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,mottled_star,5,0.2
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,ochre_star,4,0.16
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Addition,left,NA,NA,NA,0,12,sunflower_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,initial_sea_cucumber,20,0.8
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,experimental_sea_cucumber,11,0.44
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,leather_star,53,2.12
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,mottled_star,9,0.36
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,ochre_star,5,0.2
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Removal,center,NA,NA,NA,1,14,sunflower_star,4,0.16
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,initial_sea_cucumber,6,0.24
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,experimental_sea_cucumber,3,0.12
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,blood_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,leather_star,35,1.4
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,mottled_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,ochre_star,1,0.04
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,pink_star,0,0
+N Croker Island,49.4481372,-122.87396,03-01-2025,6,Control,right,NA,NA,NA,0,8,sunflower_star,1,0.04
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,initial_sea_cucumber,39,1.56
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,experimental_sea_cucumber,39,1.56
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,leather_star,49,1.96
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Control,center,NA,8.4,NA,0,28,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,initial_sea_cucumber,9,0.36
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,experimental_sea_cucumber,20,0.8
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,leather_star,31,1.24
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,mottled_star,2,0.08
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Addition,left,NA,7.9,NA,0,14,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,initial_sea_cucumber,12,0.48
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,experimental_sea_cucumber,1,0.04
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,leather_star,2,0.08
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,01-15-2025,0,Removal,right,NA,8.4,NA,1,11,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,initial_sea_cucumber,9,0.36
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,experimental_sea_cucumber,25,1
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,leather_star,28,1.12
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,mottled_star,3,0.12
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Addition,left,5.7,7.8,9.6,9,15,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,initial_sea_cucumber,39,1.56
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,experimental_sea_cucumber,20,0.8
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,leather_star,21,0.84
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Control,center,7.6,9.4,11.5,0,11,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,initial_sea_cucumber,12,0.48
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,experimental_sea_cucumber,8,0.32
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,leather_star,12,0.48
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,01-22-2025,1,Removal,right,7.8,9.1,11.9,0,8,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,initial_sea_cucumber,9,0.36
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,experimental_sea_cucumber,24,0.96
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,leather_star,39,1.56
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,ochre_star,1,0.04
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Addition,left,NA,NA,NA,6,15,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,initial_sea_cucumber,39,1.56
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,experimental_sea_cucumber,19,0.76
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,leather_star,18,0.72
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,mottled_star,1,0.04
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Control,center,NA,NA,NA,4,12,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,initial_sea_cucumber,12,0.48
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,experimental_sea_cucumber,8,0.32
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,leather_star,11,0.44
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,02-08-2025,3,Removal,right,NA,NA,NA,0,10,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,initial_sea_cucumber,9,0.36
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,experimental_sea_cucumber,27,1.08
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,leather_star,44,1.76
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,ochre_star,1,0.04
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Addition,left,NA,NA,NA,7,17,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,initial_sea_cucumber,39,1.56
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,experimental_sea_cucumber,35,1.4
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,leather_star,27,1.08
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Control,center,NA,NA,NA,13,12,sunflower_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,initial_sea_cucumber,12,0.48
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,experimental_sea_cucumber,24,0.96
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,blood_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,leather_star,16,0.64
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,mottled_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,ochre_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,pink_star,0,0
+S Croker Island,49.4314554,-122.86964,03-01-2025,6,Removal,right,NA,NA,NA,1,15,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,initial_sea_cucumber,6,0.24
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,experimental_sea_cucumber,6,0.24
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,leather_star,11,0.44
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,mottled_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Control,right,NA,10.1,NA,2,24,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,initial_sea_cucumber,16,0.64
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,experimental_sea_cucumber,3,0.12
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,leather_star,19,0.76
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,mottled_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Removal,left,NA,7.5,NA,3,12,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,initial_sea_cucumber,2,0.08
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,experimental_sea_cucumber,15,0.6
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,leather_star,10,0.4
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,mottled_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-15-2025,0,Addition,center,NA,9.2,NA,0,5,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,initial_sea_cucumber,16,0.64
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,experimental_sea_cucumber,9,0.36
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,leather_star,22,0.88
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,mottled_star,4,0.16
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Removal,left,6.1,7.1,9.1,4,13,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,initial_sea_cucumber,2,0.08
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,experimental_sea_cucumber,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,leather_star,3,0.12
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,mottled_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Addition,center,7.7,8.3,10.5,0,7,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,initial_sea_cucumber,6,0.24
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,experimental_sea_cucumber,5,0.2
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,blood_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,leather_star,8,0.32
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,mottled_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,01-22-2025,1,Control,right,8.3,9.1,11.1,3,9,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,initial_sea_cucumber,16,0.64
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,experimental_sea_cucumber,18,0.72
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,leather_star,26,1.04
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,mottled_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Removal,left,NA,NA,NA,3,15,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,initial_sea_cucumber,2,0.08
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,experimental_sea_cucumber,2,0.08
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,blood_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,leather_star,3,0.12
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,mottled_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Addition,center,NA,NA,NA,0,7,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,initial_sea_cucumber,6,0.24
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,experimental_sea_cucumber,15,0.6
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,leather_star,14,0.56
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,mottled_star,2,0.08
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,02-08-2025,3,Control,right,NA,NA,NA,0,12,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,initial_sea_cucumber,16,0.64
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,experimental_sea_cucumber,14,0.56
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,leather_star,25,1
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,mottled_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Removal,left,NA,NA,NA,0,12,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,initial_sea_cucumber,2,0.08
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,experimental_sea_cucumber,4,0.16
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,leather_star,2,0.08
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,mottled_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,pink_star,1,0.04
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Addition,center,NA,NA,NA,0,NA,sunflower_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,initial_sea_cucumber,6,0.24
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,experimental_sea_cucumber,10,0.4
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,blood_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,leather_star,10,0.4
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,mottled_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,ochre_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,pink_star,0,0
+S Johnson Bay,49.4021643,-122.8662349,03-01-2025,6,Control,right,NA,NA,NA,0,9,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,initial_sea_cucumber,6,0.24
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,experimental_sea_cucumber,6,0.24
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,blood_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,leather_star,2,0.08
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,mottled_star,1,0.04
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,ochre_star,1,0.04
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,pink_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Control,right,NA,9,NA,1,27,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,experimental_sea_cucumber,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,blood_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,leather_star,5,0.2
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,ochre_star,15,0.6
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,pink_star,1,0.04
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Removal,left,NA,7.5,NA,0,6,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,experimental_sea_cucumber,2,0.08
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,blood_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,leather_star,9,0.36
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,ochre_star,2,0.08
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,pink_star,3,0.12
+Jug Island,49.3302902,-122.916925,01-13-2025,0,Addition,center,NA,7.2,NA,0,8,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,experimental_sea_cucumber,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,blood_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,leather_star,7,0.28
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,ochre_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,pink_star,2,0.08
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Removal,left,5.9,7.1,8.3,0,5,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,experimental_sea_cucumber,7,0.28
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,blood_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,leather_star,19,0.76
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,ochre_star,3,0.12
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,pink_star,1,0.04
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Addition,center,5.4,7.2,8.7,0,8,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,initial_sea_cucumber,6,0.24
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,experimental_sea_cucumber,5,0.2
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,blood_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,leather_star,2,0.08
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,ochre_star,3,0.12
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,pink_star,1,0.04
+Jug Island,49.3302902,-122.916925,01-20-2025,1,Control,right,7.3,8.7,10.1,3,11,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,experimental_sea_cucumber,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,blood_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,leather_star,7,0.28
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,ochre_star,7,0.28
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,pink_star,5,0.2
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Removal,left,NA,NA,NA,0,9,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,experimental_sea_cucumber,11,0.44
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,blood_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,leather_star,14,0.56
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,ochre_star,3,0.12
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,pink_star,2,0.08
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Addition,center,NA,NA,NA,1,18,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,initial_sea_cucumber,6,0.24
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,experimental_sea_cucumber,5,0.2
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,blood_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,leather_star,5,0.2
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,ochre_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,pink_star,0,0
+Jug Island,49.3302902,-122.916925,02-05-2025,3,Control,right,NA,NA,NA,3,NA,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,experimental_sea_cucumber,2,0.08
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,blood_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,leather_star,5,0.2
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,ochre_star,8,0.32
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,pink_star,1,0.04
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Removal,left,NA,NA,NA,0,10,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,initial_sea_cucumber,1,0.04
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,experimental_sea_cucumber,8,0.32
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,blood_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,leather_star,25,1
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,mottled_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,ochre_star,3,0.12
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,pink_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Addition,center,NA,NA,NA,2,15,sunflower_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,initial_sea_cucumber,6,0.24
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,experimental_sea_cucumber,7,0.28
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,blood_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,leather_star,6,0.24
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,mottled_star,1,0.04
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,ochre_star,1,0.04
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,pink_star,0,0
+Jug Island,49.3302902,-122.916925,02-24-2025,6,Control,right,NA,NA,NA,0,9,sunflower_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,initial_sea_cucumber,3,0.12
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,experimental_sea_cucumber,1,0.04
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,leather_star,41,1.64
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,pink_star,18,0.72
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Removal,left,NA,6.8,NA,1,20,sunflower_star,2,0.08
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,experimental_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,leather_star,25,1
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,pink_star,7,0.28
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Control,center,NA,5.1,NA,0,NA,sunflower_star,2,0.08
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,experimental_sea_cucumber,2,0.08
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,leather_star,8,0.32
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,pink_star,12,0.48
+Twin Islands,49.3474048,-122.8931744,01-13-2025,0,Addition,right,NA,7.1,NA,0,3,sunflower_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,initial_sea_cucumber,3,0.12
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,experimental_sea_cucumber,2,0.08
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,leather_star,19,0.76
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,mottled_star,1,0.04
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,pink_star,10,0.4
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Removal,left,5.6,7.2,8.4,2,5,sunflower_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,experimental_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,leather_star,25,1
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,pink_star,5,0.2
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Control,center,5.6,5.6,6.5,0,5,sunflower_star,1,0.04
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,experimental_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,leather_star,7,0.28
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,pink_star,14,0.56
+Twin Islands,49.3474048,-122.8931744,01-20-2025,1,Addition,right,6.8,7.7,8.4,0,3,sunflower_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,initial_sea_cucumber,3,0.12
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,experimental_sea_cucumber,2,0.08
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,leather_star,22,0.88
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,pink_star,12,0.48
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Removal,left,NA,NA,NA,1,12,sunflower_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,experimental_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,leather_star,55,2.2
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,ochre_star,1,0.04
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,pink_star,10,0.4
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Control,center,NA,NA,NA,0,10,sunflower_star,2,0.08
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,experimental_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,leather_star,1,0.04
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,ochre_star,1,0.04
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,pink_star,9,0.36
+Twin Islands,49.3474048,-122.8931744,02-05-2025,3,Addition,right,NA,NA,NA,0,3,sunflower_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,initial_sea_cucumber,3,0.12
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,experimental_sea_cucumber,1,0.04
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,leather_star,12,0.48
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,pink_star,19,0.76
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Removal,left,NA,NA,NA,1,11,sunflower_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,experimental_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,leather_star,19,0.76
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,pink_star,9,0.36
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Control,center,NA,NA,NA,0,10,sunflower_star,2,0.08
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,initial_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,experimental_sea_cucumber,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,blood_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,leather_star,8,0.32
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,mottled_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,ochre_star,0,0
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,pink_star,23,0.92
+Twin Islands,49.3474048,-122.8931744,02-24-2025,6,Addition,right,NA,NA,NA,0,10,sunflower_star,0,0
