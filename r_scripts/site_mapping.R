@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Mapping Indian Arm study sites and ambient sea cucumber densities
 # Author: Shelby Connelly
-# Date: 04/10/2025 - 08/24/2026
+# Date: 04/10/2025 - 09/03/2026
 
 # Installing R packages
 install.packages(c("tidyverse", "sf", "viridis", "ggtext", "ggspatial", 
@@ -16,7 +16,7 @@ library(ggspatial)
 library(patchwork)
 
 # Loading site data into R
-site_data <- read_csv("./clean_data/complete_site_data_continuous.csv")
+site_data <- read_csv("./clean_data/complete_site_data.csv")
 
 # Converting site data to a spatial dataset
 site_data_sf <- site_data %>%
