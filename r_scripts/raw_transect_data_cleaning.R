@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Cleaning raw transect data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 03/18/2025 - 08/27/2026
+# Date: 03/18/2025 - 09/04/2026
 
 # Installing packages 
 install.packages("tidyverse")
@@ -64,6 +64,14 @@ clean_transect_data <- clean_transect_data %>%
 # Filtering sea cucumber data
 sea_cucumber_transect_data <- clean_transect_data %>%
   filter(species == "sea_cucumber")
+
+# Summarizing sea cucumber density data by site
+sea_cucumber_transect_density_summary <- sea_cucumber_transect_data %>%
+  group_by(site) %>%
+  summarize(mean_density = mean(density),
+            sd_density = sd(density))
+
+sea_cucumber_transect_density_summary
 
 # Exporting data frames as .csv files ------------------------------------------
 write_csv(clean_transect_data, "./clean_data/clean_transect_data.csv")
