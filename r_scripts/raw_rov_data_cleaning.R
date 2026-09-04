@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Cleaning raw ROV data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 02/10/2026 - 08/30/2026
+# Date: 02/10/2026 - 09/04/2026
 
 # Installing packages
 install.packages("tidyverse")
@@ -23,15 +23,15 @@ clean_rov_data <- right_join(site_data, raw_rov_data, join_by(site))
 
 # Relabeling and reordering sites by latitude
 clean_rov_data <- clean_rov_data %>%
-  mutate(site = case_match(site, "boulder_island" ~ "Boulder Island",
-                           "jug_island" ~ "Jug Island",
-                           "twin_islands" ~ "Twin Islands",
-                           "brighton_beach" ~ "Brighton Beach",
-                           "old_buntzen_pp" ~ "Old Buntzen PP",
-                           "best_pt" ~ "Best Pt",
-                           "s_johnson_bay" ~ "S Johnson Bay",
-                           "s_croker_island" ~ "S Croker Island",
-                           "n_croker_island" ~ "N Croker Island"),
+  mutate(site = recode_values(site, "boulder_island" ~ "Boulder Island",
+                              "jug_island" ~ "Jug Island",
+                              "twin_islands" ~ "Twin Islands",
+                              "brighton_beach" ~ "Brighton Beach",
+                              "old_buntzen_pp" ~ "Old Buntzen PP",
+                              "best_pt" ~ "Best Pt",
+                              "s_johnson_bay" ~ "S Johnson Bay",
+                              "s_croker_island" ~ "S Croker Island",
+                              "n_croker_island" ~ "N Croker Island"),
          site = fct_reorder(site, latitude))
 
 # CALCULATING DESCRIPTIVE STATISTICS -------------------------------------------
@@ -56,8 +56,7 @@ shallow_vs_deep_rov_data <- shallow_vs_deep_rov_data %>%
   mutate(density = abundance/survey_time) %>%
   ungroup()
   
-# Converting shallow vs deep ROV data from long to wide format 
-# and adding zero values
+# Converting shallow vs deep ROV data from long to wide format and adding zero values
 shallow_vs_deep_rov_data_wide <- shallow_vs_deep_rov_data %>%
   pivot_wider(names_from = depth_category,
               values_from = c(abundance, density)) %>%
@@ -65,6 +64,16 @@ shallow_vs_deep_rov_data_wide <- shallow_vs_deep_rov_data %>%
          abundance_deep = replace_na(abundance_deep, 0),
          density_shallow = replace_na(density_shallow, 0),
          density_deep = replace_na(density_deep, 0))
+
+# Summarizing sea cucumber densities by site and depth category
+rov_density_summary <- shallow_vs_deep_rov_data_wide %>%
+  group_by(site) %>%
+  summarize(mean_density_shallow = mean(density_shallow),
+            sd_density_shallow = sd(density_shallow),
+            mean_density_deep = mean(density_deep),
+            sd_density_deep = sd(density_deep))
+
+rov_density_summary
 
 # Calculating mean field of view in ROV surveys
 rov_fov <- raw_rov_fov_data %>%
