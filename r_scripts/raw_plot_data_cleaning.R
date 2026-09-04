@@ -1,7 +1,7 @@
 # Project: Sea cucumber honours project
 # Cleaning raw plot data and calculating descriptive statistics
 # Author: Shelby Connelly
-# Date: 03/18/2025 - 08/27/2026
+# Date: 03/18/2025 - 09/04/2026
 
 # Installing packages
 install.packages("tidyverse")
@@ -97,6 +97,14 @@ sea_cucumber_plot_data <- clean_plot_data %>%
   rowwise() %>%
   mutate(density_change = (density_experimental_sea_cucumber - density_initial_sea_cucumber)) %>%
   ungroup()
+
+# Summarizing initial plot density by site
+initial_density_summary <- sea_cucumber_plot_data %>%
+  group_by(site) %>%
+  summarize(mean_initial_density = mean(density_initial_sea_cucumber),
+            sd_initial_density = sd(density_initial_sea_cucumber))
+
+initial_density_summary
 
 # Downloading data frames as .csv files ----------------------------------------
 write_csv(clean_plot_data, "./clean_data/clean_plot_data.csv")
